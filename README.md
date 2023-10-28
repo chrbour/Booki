@@ -16,7 +16,7 @@ Un fichier “index.html” contenant l’ensemble du code HTML du projet.
 Un dossier “CSS” comprenant un fichier “style.css” contenant l’ensemble du code CSS du projet.  
 Un dossier “images” contenant l’ensemble des images utilisées.  
 
-# Competences évaluées
+# Compétences évaluées
 Intégrer du contenu conformément à une maquette.  
 Implémenter une interface responsive.  
 
